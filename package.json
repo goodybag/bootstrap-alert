@@ -1,0 +1,42 @@
+{
+  "name": "bootstrap-alert",
+  "version": "0.0.1",
+  "description": "Bootstrap Alert jQuery Plugin",
+  "homepage": "",
+  "keywords": [
+    "jquery",
+    "bootstrap",
+    "ui"
+  ],
+  "categories": [
+    "UI",
+    "DOM",
+    "Effects"
+  ],
+  "jam": {
+    "dependencies": {
+      "jquery": ">1.4.2"
+    },
+    "main": "index.js"
+  },
+  "maintainers": [
+    {
+      "name": "Preston Pham",
+      "email": "preston@goodybag.com",
+      "web": "http://www.prestonpham.com" 
+    }
+  ],
+  "licenses": [
+    {
+      "type": "APACHE",
+      "url": "https://raw.github.com/twitter/bootstrap/master/LICENSE"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git", 
+      "url": "https://github.com/twitter/bootstrap.git"
+    }
+  ],
+  "github": "https://github.com/goodybag/bootstrap-alert"
+}
